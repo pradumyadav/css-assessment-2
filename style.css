@@ -1,0 +1,116 @@
+
+.great{
+    border: 10px greenyellow;
+    height: 2000px;
+    border-style: groove;
+}
+.FORM{
+    color: red;
+    border: 10px red dashed;
+    width: 500px;
+    position: relative;
+    bottom: 600px; ;
+    left: 800px;
+}
+.para1{
+    color:white;
+    border: 8px red solid;
+    border-radius: 40px;
+    padding: 30px 50px 110px 40px ;
+    display: inline-block;
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 15px;
+    font-size: 30px; 
+    height: 30px;
+   
+}
+
+     
+.para2{
+    color: white;
+    background-color: black;
+    border: 8px red solid;
+    height: 25px;
+    padding: 40px 70px 20px 100px;
+    border-radius: 30px;
+    display: inline-block;
+    position: relative;
+    bottom: 190px;;
+    left: 400px;  ;
+    font-size:30px;
+    width: 400px;
+
+   
+
+}
+.para3{
+    color: white;
+    background-color: black;
+    border: 8px red solid;
+    border-radius: 50px;
+    display: inline-block;
+    padding:30px 60px 30px 200px;
+    position: relative;
+    left: 1000px; ;
+    bottom: 350px;;
+    width: 300px;
+    font-size: 25px;
+    
+   
+
+}
+.para4{
+    color: white;
+    background-color: black;
+    border: 5px red solid;
+    height: 10px;
+    padding: 50px 200px 30px 200px;
+    border-radius:30px;
+    display: inline-block;
+    font-size: 30px;
+    position: relative;
+    bottom: 550px; ;
+    left: 600px; ;
+}
+
+
+.CIRCLE{
+    
+  background-color: aquamarine;  
+  color: black;
+  border: 7px grey solid;
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+  position: relative;
+  left: 300px;
+}
+
+
+.parent1{
+    color:blueviolet;
+    width: 400px;
+    border:2px blue solid
+}
+.child{
+   color: darkslateblue; 
+   height: 250px;
+   width: 400px;
+   background-color: aqua;
+   border:1px green solid;
+   border-radius: 20px;
+   margin: 20px;
+   position: relative;
+   bottom: 400px;
+
+}
+.parent{
+    
+    display: flex;
+    flex-wrap:wrap; 
+    justify-content: center;
+}
+.bgimg{
+    background-image: url("./pexels-eberhard-grossgasteiger-2088205.jpg");
+}
